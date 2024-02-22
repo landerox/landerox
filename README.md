@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'ma  Venezuelan living in Chile, with a constant passion for technology and cloud development. This repository serves as my personal "sandbox", where I share my experiments and explorations in optimizing data workflows using various tools and configurations. Dive into the code, configurations, and my insights, and feel free to contribute your own!
+
 <!--
 **landerox/landerox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
